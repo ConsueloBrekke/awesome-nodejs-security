@@ -3,8 +3,8 @@
 
 A curated list of awesome Node.js Security resources.
 
-![#](https://badgen.net/badge/tools/30+/blue)
-![#](https://badgen.net/badge/incidents/15+/red)
+ [!](https://badgen.net/badge/tools/30+/blue)
+![*](https://badgen.net/badge/incidents/15+/red)
 ![#](https://badgen.net/badge/educational/8+/green)
 
 [![liran_tal](https://img.shields.io/twitter/url/https/twitter.com/liran_tal.svg?style=social&label=Follow%20%40Liran%20Tal)](https://twitter.com/liran_tal)
@@ -248,3 +248,4 @@ say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+ 
